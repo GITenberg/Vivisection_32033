@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Albert_Leffingwell
 description: Does vivisection pay? <From Schriner's monthly, July, 1880>--Vivisection.
   <From Lippincott's magazine, August, 1884>--Appendix.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32033#Vivisection
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
 identifiers:
