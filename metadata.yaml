@@ -1,0 +1,28 @@
+_repo: Vivisection_32033
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leffingwell, Albert
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '9166'
+    url: http://www.gutenberg.org/2009/agents/9166
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Leffingwell
+description: Does vivisection pay? <From Schriner's monthly, July, 1880>--Vivisection.
+  <From Lippincott's magazine, August, 1884>--Appendix.
+gutenberg_issued: '2010-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Vivisection'
+title: Vivisection
+url: http://www.gutenberg.org/ebooks/32033
